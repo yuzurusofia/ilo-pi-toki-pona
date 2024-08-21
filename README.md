@@ -1,3 +1,9 @@
+# tenpo ni la, mi ante ala e ilo ni.
+mi pona ala e ilo ni, lon tenpo ni.  
+taso, mi pona e ilo "yuzu_ilo".  
+tenpo ni la, ilo "yuzu_ilo" li jo e ilo pi ante nanpa.  
+https://github.com/yuzurusofia/yuzu-ilo
+
 # ilo-pi-toki-pona
 mi pali musi e ilo ni, tawa mi.  
 ilotp.py li jo e ilo.  
@@ -26,4 +32,7 @@ ken la, ilo ni li ike, tawa jan wawa pi toki ilo, tan ni.)
  <summary>lipu lili pi toki Nijon (日本語でのちょっとした説明)</summary>
 
  自分のために楽しく作るトキポナ関連のツールです。  
- ilotp.pyがメインのやつです。
+ ilotp.pyがメインのやつです。  
+ 現在は更新を停止しています。  
+ そのかわりに同じ機能をyuzu_iloに追加しました。  
+ https://github.com/yuzurusofia/yuzu-ilo
